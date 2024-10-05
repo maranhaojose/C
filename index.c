@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    printf("Ivan");
+    printf("Lucas");
     return 0;
 }
 
